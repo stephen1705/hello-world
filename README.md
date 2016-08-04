@@ -1,2 +1,7 @@
 # hello-world
-Just a test
+
+Hello there, 
+
+<Just a test>
+
+looking to learn, and maybe more...
